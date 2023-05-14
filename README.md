@@ -23,3 +23,9 @@ iii) Then I created “downloadCSV” function to initiate the download of the C
 4) Histogram.js
   
 I have used “Recharts” library for creating histogram for bar chart representation. Because it easy to use and have reusable chart components such as line charts, bar charts, pie charts and many more.
+ 
+ *USED BOOTSTRAP FOR BUTTONS*
+ 
+ *WEBSITE IS DEPLOYED ON NETLIFY*
+ 
+ Thank you for reading :)
